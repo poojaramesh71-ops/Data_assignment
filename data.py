@@ -11,4 +11,4 @@ for i in range(1, n):
         maximum = arr[i]
 
 print("Smallest element:", minimum)
-print("Largest element:", maximum)
+print("Largest element:", maximum)
